@@ -1,9 +1,9 @@
 /*-------------------------------------------------------------------------
-// AUTHOR: your name.
-// FILENAME: title of the source file.
-// SPECIFICATION: your own description of the program.
+// AUTHOR: Yongsung Park    
+// FILENAME: Lab8.java
+// SPECIFICATION: 
 // FOR: CSE 110- Lab #8
-// TIME SPENT: how long it took you to complete the assignment.
+// TIME SPENT: 
 //-----------------------------------------------------------*/
 package CSE110;
 import java.util.Scanner;
