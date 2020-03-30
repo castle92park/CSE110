@@ -1,4 +1,3 @@
-package rockPS_test;
 
 public class Timer {
 	
