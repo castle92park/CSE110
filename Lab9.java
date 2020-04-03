@@ -25,6 +25,7 @@ public class Lab9
         	arr[i] = read.nextInt();
         }
         
+        
 
         for (int i = 0; i < arrSize; i++)
         {
