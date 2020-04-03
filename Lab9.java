@@ -92,7 +92,6 @@ public class Lab9
         } // close for loop i
         if (counter == 0) { System.out.println("No element found"); }
 
-
     	
         System.out.println("\nThe final array");
         
