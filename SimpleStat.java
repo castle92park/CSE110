@@ -1,15 +1,5 @@
 import java.text.DecimalFormat;
 
-//***********************************************************
-// Name: Yongsung Park
-// Title: SimpleStat.java
-// Description: Methods, implementing classes
-// Time spent: 1 hour
-// Date: 03/30/2020
-//**********************************************************
-
-
-
 public class SimpleStat {
 	private int largest, sum, count;
 	

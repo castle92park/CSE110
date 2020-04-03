@@ -90,8 +90,7 @@ public class Lab9
         		 arr[arrSize-1] = 0;
         	}  
         } // close for loop i
-        if (counter == 0) { System.out.println("No element found"); }
-
+        if (counter == 0) { System.out.println("No element found"); 
     	
         System.out.println("\nThe final array");
         
@@ -103,5 +102,6 @@ public class Lab9
         System.out.println();
         
         read.close();
+    }
     }
 }
