@@ -24,8 +24,6 @@ public class Lab9
         	System.out.println("Enter next element of the array");
         	arr[i] = read.nextInt();
         }
-        
-        
 
         for (int i = 0; i < arrSize; i++)
         {
