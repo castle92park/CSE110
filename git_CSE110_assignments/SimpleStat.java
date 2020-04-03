@@ -1,3 +1,6 @@
+package git_CSE110_assignments;
+
+
 import java.text.DecimalFormat;
 
 public class SimpleStat {
